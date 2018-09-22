@@ -1,0 +1,39 @@
+body{
+	background:black;
+}
+
+.brand-logo{padding-left:50px !important;}
+
+.nav-wrapper > ul {
+	padding-right: 50px !important;
+}
+
+.mainText{margin-top:30vh;color: white}
+
+
+.landing{
+	background: url('../img/bg.png');
+	height: 100vh;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.title{
+	color: white;
+}
+
+.desc{
+	color: white;
+
+}
+
+.img{
+	width: 200px;
+	height: 200px;
+	border-radius: 180px;
+	margin-top:3vh;
+}
+
+
